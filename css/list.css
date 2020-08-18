@@ -1,0 +1,28 @@
+.my_gray{
+    background:linear-gradient(to bottom,#f0f0f0,#e0e0e0)
+}
+.my_input{
+    width:15%;
+    border:0;
+    outline:0;
+    text-align:center;
+}
+.my_button{
+    width:1.5rem;height:1.5rem;
+    padding:0;outline:0 !important;
+    font:bold 1rem ºÚÌå;
+    color:#fff;
+    border:0;
+}
+.page-link{
+    padding:0.3rem 0.5rem;
+
+}
+
+.pagination li:not(:first-child){
+    margin-left:0.8rem;
+
+}
+.border-top{
+   border-top-style:dashed !important;
+}

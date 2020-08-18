@@ -1,0 +1,18 @@
+.my_input{
+    outline:0;
+}
+.my_input:focus{
+    outline:0 !important;
+    box-shadow:none !important;
+
+}
+.breadcrumb-item:not(:first-child)::before{
+    content:"|";
+}
+.text-decoration-none{
+    text-decoration:none !important;
+
+}
+.text-decoration-none:hover{
+    text-decoration:none !important;
+}
